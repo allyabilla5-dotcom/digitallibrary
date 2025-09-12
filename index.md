@@ -12,10 +12,10 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Laut Bercerita](ebook/Laut bercerita.pdf) - Leila S Chudori (2017)
 6. [Exploring effects of intelligent](ebook/Exploring effects.pdf) - Shaofeng Wang dkk (2023)
 7. [Investingating the Role of Public Relations Campaigns in Environment Awareness Among University Students] (ebook/Ivestigating.pdf) - MuhammadNoorAlAdwan dkk (2025)
-8. [Layanan Kebunghattaan Di Perpustakaan Universitas Bung Hatta](ebook/Layanan perpus.pdf) - Septevan Nanda Yudisman(2023)
+8. [Layanan Kebunghattan Di perpustakaan Universitas Bung Hatta] (ebook/Layanan perpus.pdf) - Septevan Nanda Yudisman (2023) 
 9. [Peran Pustakawandalam Kegiatan Hubungan Masyarakat di Perpustakaan](ebook/Peran Pustakawan.pdf) - Joko Santosa (2021)
 10. [Public Relations in Contemporary Academic Libraries](ebook/Public Relations.pdf) - Iniobong & Unwana I (2025)
-11. [Transformasi Political Awakening Perempuan] (ebook/Transformasi.pdf) - Hanny Hilmia Fairuza dkk (2023)
+11. [Transformasi Political Awakening Perempuan] (ebook/Transformasi) - Hanny Hilmia Fairuza dkk (2023)
     
 ---
 
