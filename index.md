@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 
 ## koleksi
-1. [AksaraSevanya] (ebook/pdfcoffee.com_aksara-sevanya-by-citra-novy-pdf-free.pdf) - Citra Novy (2020) 
+1. [AksaraSevanya] (ebook/pdfcoffe.com_aksara-sevanya-by-citra-novy-pdf-free.pdf) - Citra Novy (2020) 
 2. [Beyond The Bookshelf: Virtual Reality As A Tool For Library Design and Interactive](ebook/Rangkuman Kuliah Umum.pdf) - Dr. Tengku Siti Meriam (2025)
 3. [Stakeholder communication in academic libraries] (ebook/Stakeholder.pdf) - Laura Wright & Samantha Paul (2024)
 4. [Virtual Communication Culture on Tiktok] (ebook/Incommedig.pdf) - Amelia Hermawan & Chairun Nisa Zempi (2024)
@@ -16,7 +16,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Peran Pustakawandalam Kegiatan Hubungan Masyarakat di Perpustakaan](ebook/Peran Pustakawan.pdf) - Joko Santosa (2021)
 10. [Public Relations in Contemporary Academic Libraries](ebook/Public Relations.pdf) - Iniobong & Unwana I (2025)
 11. [Transformasi Political Awakening Perempuan] (ebook/Transformasi.pdf) - Hanny Hilmi Fairuza, dkk (2023)
-
+12. [Komilag Anak Jujur yang Hebat](ebook/komilag anak jujur yang hebat.pdf) - Kemendigbud (2015)
+    
 ---
 
 *Powered by GitHub Pages*
