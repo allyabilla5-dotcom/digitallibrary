@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 
 ## koleksi
-1. [Beyond The Bookshelf: Virtual Reality As A Tool For Library Design and Interactive](ebook/Rangkuman Kuliah Umum.pdf) - Dr. Tengku Siti Meriam (2025)
+1. [Rangkuman Kuliah Umum](ebook/Rangkuman Kuliah Umum.pdf) - Allya Sabilla Al Fawziyah (13040123140120)
 2. [Laut Bercerita](ebook/Laut bercerita.pdf) - Leila S Chudori (2017)
 3. [Exploring effects of intelligent](ebook/Exploring effects.pdf) - Shaofeng Wang, dkk (2023)
 4. [Layanan Kebunghattan Di Perpustakaan Universitas Bung Hatta](ebook/Layanan perpus.pdf) - Septevan Nanda Yudisman (2023) 
