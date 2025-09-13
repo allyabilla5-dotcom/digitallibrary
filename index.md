@@ -15,7 +15,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Layanan Kebunghattan Di perpustakaan Universitas Bung Hatta](ebook/Layanan perpus.pdf) - Septevan Nanda Yudisman (2023) 
 9. [Peran Pustakawandalam Kegiatan Hubungan Masyarakat di Perpustakaan](ebook/Peran Pustakawan.pdf) - Joko Santosa (2021)
 10. [Public Relations in Contemporary Academic Libraries](ebook/Public Relations.pdf) - Iniobong & Unwana I (2025)
-11. [Transformasi Political Awakening Perempuan] (ebook/Transformasi.pdf) - Hanny Hilmia Fairuza, dkk (2023)   
+11. [Transformasi Political Awakening Perempuan] (ebook/Transformasi.pdf) - Hanny Hilmi Fairuza, dkk (2023)
+
 ---
 
 *Powered by GitHub Pages*
