@@ -12,7 +12,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Peran Pustakawandalam Kegiatan Hubungan Masyarakat di Perpustakaan](ebook/Peran Pustakawan.pdf) - Joko Santosa (2021)
 6. [Public Relations in Contemporary Academic Libraries](ebook/Public Relations.pdf) - Iniobong & Unwana I (2025)
 7. [Komilag Anak Jujur yang Hebat](ebook/komilag anak jujur yang hebat.pdf) - Kemendikbud (2015)
-    
+8. [Cahaya Cahaya Kecil](ebook/cahaya kecil.pdf) - Hasta Indriyana (2017)
+9. [Kalah Oleh Si Cerdik](ebook/kalah oleh si cerdik.pdf) - Atisah (2017)
+10. [Kisah Dua Putri dan Si Raja Ular](ebook/Kisah Dua Putri.pdf) - Dwi Pratiwi (2016)  
 ---
 
 *Powered by GitHub Pages*
