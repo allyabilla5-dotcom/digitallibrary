@@ -18,7 +18,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Putri Surga](ebook/putri surga.pdf) - Sri Kusuma Winahyu (2017)
     
 ---
-[halaman 1](webti/halaman1.html)
 <a href="webti/halaman1.html">Halaman 1</a>
 
 *Powered by GitHub Pages*
